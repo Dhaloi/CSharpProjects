@@ -1,0 +1,7 @@
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Debug\BlueBooter.csprojAssemblyReference.cache
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Debug\BlueBooter.csproj.CoreCompileInputs.cache
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\bin\Debug\BlueBooter.exe.config
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\bin\Debug\BlueBooter.exe
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\bin\Debug\BlueBooter.pdb
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Debug\BlueBooter.exe
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Debug\BlueBooter.pdb

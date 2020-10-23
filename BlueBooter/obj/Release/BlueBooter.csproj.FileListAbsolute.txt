@@ -1,0 +1,7 @@
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\bin\Release\DrunkPC.exe.config
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\bin\Release\DrunkPC.exe
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\bin\Release\DrunkPC.pdb
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Release\BlueBooter.csprojAssemblyReference.cache
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Release\BlueBooter.csproj.CoreCompileInputs.cache
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Release\DrunkPC.exe
+C:\Users\ZulkufEnis.S\Desktop\Sample - Kopya\obj\Release\DrunkPC.pdb
